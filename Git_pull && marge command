@@ -1,0 +1,26 @@
+
+
+1. First you have to go and check your branch name:
+    => Git branch  ----->(where this branch is for me).
+
+2. You have also check or edit your changes(code) on your git branch;
+    => Git log  
+
+3. You have change/switch your branch(where, you have pull another branch)
+    => Git checkout <branch name>    ----->(where branch name is different)
+
+4. Git pull origin <branch name> ----->(whose branch)
+
+5. Git checkout <branch name> ---->(My branch name, where i pull this code)
+
+6. Git branch  --->(It will show my branch name)
+
+8. Git merge <branch name>  ------>(whose branch, i will merge)
+
+9. Git branch ----->(Show my branch name)
+
+10. Git status
+
+11. Git log
+
+12. git push origin <branch name> ----->(where branch name is me)
